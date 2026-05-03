@@ -1,0 +1,51 @@
+﻿Year,Province,DrugClass,BeneficiariesWithUse,TotalSeniorBeneficiaries
+2024,Ontario,Hmg coa reductase inhibitors,1625840,2790547
+2023,Ontario,Hmg coa reductase inhibitors,1531127,2695475
+2022,Ontario,Hmg coa reductase inhibitors,1443809,2602167
+2021,Ontario,Hmg coa reductase inhibitors,1368675,2500434
+2020,Ontario,Hmg coa reductase inhibitors,1299567,2423753
+2024,Quebec,Hmg coa reductase inhibitors,946617,1674844
+2023,Quebec,Hmg coa reductase inhibitors,902031,1622102
+2024,Ontario,Proton pump inhibitors,877181,2790547
+2022,Quebec,Hmg coa reductase inhibitors,860066,1572789
+2023,Ontario,Proton pump inhibitors,849455,2695475
+2022,Ontario,Proton pump inhibitors,821542,2602167
+2021,Quebec,Hmg coa reductase inhibitors,818422,1520393
+2021,Ontario,Proton pump inhibitors,796999,2500434
+2020,Quebec,Hmg coa reductase inhibitors,778238,1471440
+2020,Ontario,Proton pump inhibitors,768591,2423753
+2024,Quebec,Proton pump inhibitors,715766,1674844
+2024,Ontario,Dihydropyridine derivatives,692930,2790547
+2023,Quebec,Proton pump inhibitors,687138,1622102
+2023,Ontario,Dihydropyridine derivatives,666418,2695475
+2022,Quebec,Proton pump inhibitors,660359,1572789
+2024,Quebec,Vitamin d and analogues,651127,1674844
+2021,Quebec,Proton pump inhibitors,634281,1520393
+2022,Ontario,Dihydropyridine derivatives,633016,2602167
+2023,Quebec,Vitamin d and analogues,623906,1622102
+2024,Ontario,"Ace inhibitors, plain",615669,2790547
+2023,Ontario,"Ace inhibitors, plain",615266,2695475
+2022,Ontario,"Ace inhibitors, plain",609258,2602167
+2021,Ontario,Dihydropyridine derivatives,603969,2500434
+2020,Quebec,Proton pump inhibitors,599443,1471440
+2021,Ontario,"Ace inhibitors, plain",597684,2500434
+2022,Quebec,Vitamin d and analogues,594842,1572789
+2020,Ontario,"Ace inhibitors, plain",589856,2423753
+2024,Ontario,"Beta blocking agents, selective",582580,2790547
+2020,Ontario,Dihydropyridine derivatives,573414,2423753
+2023,Ontario,"Beta blocking agents, selective",573034,2695475
+2022,Ontario,"Beta blocking agents, selective",560047,2602167
+2021,Quebec,Vitamin d and analogues,558362,1520393
+2024,Ontario,"Angiotensin ii receptor blockers (arbs), plain",556662,2790547
+2021,Ontario,"Beta blocking agents, selective",547869,2500434
+2020,Ontario,"Beta blocking agents, selective",536403,2423753
+2023,Ontario,"Angiotensin ii receptor blockers (arbs), plain",524123,2695475
+2020,Quebec,Vitamin d and analogues,513300,1471440
+2022,Ontario,"Angiotensin ii receptor blockers (arbs), plain",485456,2602167
+2024,British Columbia,Hmg coa reductase inhibitors,470935,989313
+2024,Quebec,Dihydropyridine derivatives,463556,1674844
+2021,Ontario,"Angiotensin ii receptor blockers (arbs), plain",460101,2500434
+2023,Quebec,Dihydropyridine derivatives,444110,1622102
+2020,Ontario,"Angiotensin ii receptor blockers (arbs), plain",442836,2423753
+2023,British Columbia,Hmg coa reductase inhibitors,439930,954787
+2024,Ontario,Thyroid hormones,434122,2790547
