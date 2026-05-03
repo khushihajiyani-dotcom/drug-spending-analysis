@@ -3,7 +3,7 @@
 ## Overview
 This project analyzes Canadian public drug program data to investigate a significant increase in drug spending observed between 2023 and 2024. The objective was to identify whether the spike was driven by increased utilization and higher costs, or specific therapeutic classes.
 
-## Data Source
+## [Data Source](https://www.cihi.ca/en/topics/pharmaceutical-care/data-tables)
 Data was obtained from the Canadian Institute for Health Information (CIHI), including:
 - Drug spending data (by province and year)
 - Drug utilization data (claims by drug class)
