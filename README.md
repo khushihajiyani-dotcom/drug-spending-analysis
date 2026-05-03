@@ -45,5 +45,9 @@ While economically significant, sglt2 inhibitors accounted for approximately **4
 ### 6. Saskatchewan Case Insight
 Saskatchewan demonstrated a disproportionately high increase in spending for 2024 relative to prior years, with one of the top 3 drug classes being combinations of penicillins. This needs further investigationg to understand whether it is driven by a rise in infections or unnecessary prescribing practices. 
 
+### Repository
+- [data](data/) : Provincal Spending for 2020 to 2024 and Total Claims for different therapies 2020 to 2024
+- [SQL](SQL/) : All the SQL codes used for conclusion
+
 ## Conclusion
 The increase in drug spending from 2023 to 2024 is not driven by a single therapeutic class. Instead, it reflects a broad-based increase across multiple drug categories, combined with growing adoption of higher-cost therapies.
